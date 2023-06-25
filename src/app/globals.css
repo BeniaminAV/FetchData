@@ -25,3 +25,7 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+
+.page-title {
+  @apply my-20 flex items-center justify-center text-4xl text-rose-500;
+}
